@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Enketo Express [![Build Status](https://travis-ci.org/kobotoolbox/enketo-express.svg?branch=master)](https://travis-ci.org/kobotoolbox/enketo-express) [![Dependency Status](https://david-dm.org/kobotoolbox/enketo-express.svg)](https://david-dm.org/kobotoolbox/enketo-express) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/609aaf6fa764454f901f1c8a427264ff)](https://www.codacy.com/app/martijnr/enketo-express?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=enketo/enketo-express&amp;utm_campaign=Badge_Grade)
 ==============
 
@@ -147,3 +148,6 @@ The Enketo logo and Icons are trademarked by [Enketo LLC](https://www.linkedin.c
 ### Change log
 
 See [change log](./CHANGELOG.md)
+=======
+# enketo-express
+>>>>>>> d97e7282e49cd43c555ffc484838635e098a5044
